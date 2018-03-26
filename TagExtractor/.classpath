@@ -12,7 +12,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -22,5 +22,18 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/jwnl.1.3rc3.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/maxent-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/opennlp-tools-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/porterstemmer.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/sax2.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/sharethis-common.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/sptoolkit.jar"/>
+	<classpathentry kind="lib" path="C:/java projects/textRankLib/lib/trove-2.0.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
